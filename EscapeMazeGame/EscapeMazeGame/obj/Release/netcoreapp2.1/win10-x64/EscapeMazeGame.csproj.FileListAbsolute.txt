@@ -1,0 +1,14 @@
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\bin\Release\netcoreapp2.1\win10-x64\EscapeMazeGame.exe
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\bin\Release\netcoreapp2.1\win10-x64\EscapeMazeGame.deps.json
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\bin\Release\netcoreapp2.1\win10-x64\EscapeMazeGame.runtimeconfig.json
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\bin\Release\netcoreapp2.1\win10-x64\EscapeMazeGame.runtimeconfig.dev.json
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\bin\Release\netcoreapp2.1\win10-x64\EscapeMazeGame.dll
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\bin\Release\netcoreapp2.1\win10-x64\EscapeMazeGame.pdb
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\obj\Release\netcoreapp2.1\win10-x64\EscapeMazeGame.csprojAssemblyReference.cache
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\obj\Release\netcoreapp2.1\win10-x64\EscapeMazeGame.csproj.CoreCompileInputs.cache
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\obj\Release\netcoreapp2.1\win10-x64\EscapeMazeGame.AssemblyInfoInputs.cache
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\obj\Release\netcoreapp2.1\win10-x64\EscapeMazeGame.AssemblyInfo.cs
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\obj\Release\netcoreapp2.1\win10-x64\EscapeMazeGame.dll
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\obj\Release\netcoreapp2.1\win10-x64\EscapeMazeGame.pdb

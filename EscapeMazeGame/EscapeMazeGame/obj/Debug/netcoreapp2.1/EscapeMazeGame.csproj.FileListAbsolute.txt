@@ -1,0 +1,11 @@
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\obj\Debug\netcoreapp2.1\EscapeMazeGame.csproj.CoreCompileInputs.cache
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\obj\Debug\netcoreapp2.1\EscapeMazeGame.AssemblyInfoInputs.cache
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\obj\Debug\netcoreapp2.1\EscapeMazeGame.AssemblyInfo.cs
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\bin\Debug\netcoreapp2.1\EscapeMazeGame.deps.json
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\bin\Debug\netcoreapp2.1\EscapeMazeGame.runtimeconfig.json
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\bin\Debug\netcoreapp2.1\EscapeMazeGame.runtimeconfig.dev.json
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\bin\Debug\netcoreapp2.1\EscapeMazeGame.dll
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\bin\Debug\netcoreapp2.1\EscapeMazeGame.pdb
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\obj\Debug\netcoreapp2.1\EscapeMazeGame.dll
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\obj\Debug\netcoreapp2.1\EscapeMazeGame.pdb
+C:\Users\Jason Rojas\source\repos\EscapeMazeGame\EscapeMazeGame\obj\Debug\netcoreapp2.1\EscapeMazeGame.csprojAssemblyReference.cache

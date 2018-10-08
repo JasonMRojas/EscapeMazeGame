@@ -82,7 +82,6 @@ namespace EscapeMazeGame.Classes
         /// <returns></returns>
         private int[][] BuildMapArrayEntirely(PlayerCharacter character)
         {
-            int[][] finishedMapArray = new int[this.Height][];
             do
             {
                 BuildMapGrid(character);

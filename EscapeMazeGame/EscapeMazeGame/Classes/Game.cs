@@ -22,7 +22,7 @@ namespace EscapeMazeGame.Classes
                 retry = false;
                 Console.WriteLine("Loading New Map...");
                 Console.WriteLine("This may take up to 60 seconds...");
-                int height = 15;
+                int height = 10;
                 if (difficulty < 3)
                 {
                     height = difficulty * 6;
@@ -30,7 +30,8 @@ namespace EscapeMazeGame.Classes
                 int width;
                 if (difficulty > 5)
                 {
-                    width = difficulty * 10;
+                    width = difficulty * 15;
+                    height = difficulty * 2;
                 }
                 else
                 {
@@ -219,7 +220,7 @@ namespace EscapeMazeGame.Classes
             {
                 if (letter == 'P')
                 {
-                    Console.ForegroundColor = ConsoleColor.Green; 
+                    Console.ForegroundColor = ConsoleColor.Green;
                     Console.Write(letter);
                 }
                 else if (letter == 'D')

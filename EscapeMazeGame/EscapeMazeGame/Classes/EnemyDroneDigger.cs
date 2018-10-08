@@ -79,7 +79,10 @@ namespace EscapeMazeGame.Classes
                 this.MoveCounter = 0;
             }
 
-            map.UpdateDronePostion(pDronePos, this);
+            if (pDronePos[0] != this.Position[0] || pDronePos[1] != this.Position[1])
+            {
+                map.UpdateDronePostion(pDronePos, this);
+            }
 
         }
 
